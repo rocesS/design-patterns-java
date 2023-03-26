@@ -1,4 +1,4 @@
-package org.example.FactoryPattern;
+package org.example.Factory;
 
 public abstract class Computer {
 

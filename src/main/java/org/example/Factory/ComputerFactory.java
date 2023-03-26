@@ -1,4 +1,4 @@
-package org.example.FactoryPattern;
+package org.example.Factory;
 
 public class ComputerFactory {
     public static Computer getComputer(String type, String ram, String hdd, String cpu) {
